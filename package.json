@@ -1,0 +1,30 @@
+{
+  "name": "flag-factory",
+  "version": "1.0.0",
+  "description": "Flag Factory is an svg flag icon delivery package.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Codezuka/flag-factory.git"
+  },
+  "keywords": [
+    "flag",
+    "flags",
+    "bandeira",
+    "bandeiras",
+    "icon",
+    "icons",
+    "ícon",
+    "ícones",
+    "sgv"
+  ],
+  "author": "Wagner <wagner.manko@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Codezuka/flag-factory/issues"
+  },
+  "homepage": "https://github.com/Codezuka/flag-factory#readme"
+}
