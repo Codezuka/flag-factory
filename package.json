@@ -1,6 +1,6 @@
 {
   "name": "flag-factory",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Flag Factory is an svg flag icon delivery package.",
   "main": "index.js",
   "scripts": {
